@@ -20,10 +20,10 @@ Platform assembly: C:\Users\XTREM\Documents\Sorcerer\bin\Sorcerer_concept_Data\M
 Loading C:\Users\XTREM\Documents\Sorcerer\bin\Sorcerer_concept_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\XTREM\Documents\Sorcerer\bin\Sorcerer_concept_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
 Loading C:\Users\XTREM\Documents\Sorcerer\bin\Sorcerer_concept_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
-- Completed reload, in  0.031 seconds
+- Completed reload, in  0.032 seconds
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 Platform assembly: C:\Users\XTREM\Documents\Sorcerer\bin\Sorcerer_concept_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\XTREM\Documents\Sorcerer\bin\Sorcerer_concept_Data\Managed\System.dll (this message is harmless)
 WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
